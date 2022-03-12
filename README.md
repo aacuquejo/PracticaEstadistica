@@ -1,1 +1,3 @@
 # PracticaEstadistica
+
+Autora: Andrea Araujo
